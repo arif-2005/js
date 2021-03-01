@@ -1,3 +1,3 @@
 # All JS Files Of Arif
 
-### [1. anime js](https://arif-2005.github.io/js/anime.min.js)
+### [1. anime js](https://raw.githubusercontent.com/arif-2005/js/main/anime.min.js)
